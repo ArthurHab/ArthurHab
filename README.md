@@ -2,7 +2,9 @@
 
 - 🔭 Atualmente focado no Front-end
 - 🌱 Estudando React/Typescript
+- 💻 Cursando Ciência da Computação na UEPB
 - 📫 Contate-me no email: arthur200106@gmail.com
+- 📋 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/arthur-henrique-alexandre-bezerra-0269721b8/?originalSubdomain=br">Arthur Henrique Alexandre Bezerra</a>
 ##
 <div align="center">
   <img height="174em" src="https://github-readme-stats.vercel.app/api?username=arthurhab&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
