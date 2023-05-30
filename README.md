@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Henrique 👋
+### Hello, World! Sou o Arthur Henrique👋
 
 - 🔭 Atualmente focado no Front-end
 - 🌱 Estudando React/Typescript
