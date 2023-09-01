@@ -1,7 +1,7 @@
 ### Hello, World! Sou o Arthur Henrique👋
 
-- 🔭 Atualmente focado no Front-end
-- 🌱 Estudando React/Typescript/Angular
+- 🔭 Front-end e Back-end (Fullstack)
+- 🌱 Estudando React/Typescript/Angular/Spring Boot/ Node Js
 - 💻 Cursando Ciência da Computação na UEPB
 - 📫 Contate-me no email: arthur200106@gmail.com
 - 📋 Veja meu LinkedIn: <a href="https://www.linkedin.com/in/arthur-henrique-alexandre-bezerra-0269721b8/?originalSubdomain=br" target="_blank">Arthur Henrique Alexandre Bezerra</a>
