@@ -1,6 +1,5 @@
 ### System.out.println(" Hello, World! Sou o Arthur Henrique👋 ")
 
-- 🔭 Front-end e Back-end (Fullstack)
 - 🌱 Estudando React/Typescript/Angular/Node Js/Java/Spring Boot
 - 💻 Cursando Ciência da Computação na UEPB
 - 📫 Contate-me no email: arthur200106@gmail.com
