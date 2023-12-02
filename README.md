@@ -1,4 +1,4 @@
-### System.out.println(" Hello, World! Sou o Arthur Henrique👋 ")
+### Arthur Henrique
 
 - 🌱 Estudando React/Typescript/Angular/Node Js/Java/Spring Boot
 - 💻 Cursando Ciência da Computação na UEPB
